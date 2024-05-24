@@ -3,7 +3,7 @@
 	"name": "Obsidian 2anki",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Convert your Obsidian notes to Anki flashcards fast",
+	"description": "Convert your Obsidian notes to Anki flashcards fast using 2anki.net",
 	"author": "Alexander Alemayhu",
 	"authorUrl": "https://alemayhu.com",
 	"fundingUrl": {
