@@ -1,11 +1,15 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-2anki-plugin",
+	"name": "Obsidian 2anki",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Convert your Obsidian notes to Anki flashcards fast",
+	"author": "Alexander Alemayhu",
+	"authorUrl": "https://alemayhu.com",
+	"fundingUrl": {
+			"Buy Me a Coffee": "https://buymeacoffee.com/aalemayhu",
+			"GitHub Sponsor": "https://github.com/sponsors/alemayhu",
+			"Patreon": "https://www.patreon.com/alemayhu"
+	},
 	"isDesktopOnly": false
 }

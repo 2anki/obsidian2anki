@@ -1,15 +1,21 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-2anki-plugin",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Convert notes from Obsidian to Anki flashcards",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
 		"build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": [
+		"2anki",
+		"obsidian",
+		"plugin",
+		"anki",
+		"flashcards"
+	],
+	"author": "Alexander Alemayhu <alexander@alemayhu.com>",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^16.11.6",
